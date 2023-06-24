@@ -1,6 +1,10 @@
 - 👋 Hi, I’m Christine Khekame Juma.
-- 👀 I’m interested in Full-Stack Development.
-- 🌱 I’m currently learning Javascript.
+
+- 
+-                                   👀 I’m interested in Full-Stack Development.
+
+-                               
+-                                                                         🌱 I’m currently learning Javascript.
 - 
 - 📫 Reach me on christinekhekama99@gmail.com.
 
