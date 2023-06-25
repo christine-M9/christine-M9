@@ -4,7 +4,7 @@
 - 
 - 🌱 I’m currently learning Javascript.
 - 
-- 📫 Reach me on christinekhekama@gmail.com
+- 📫 Reach me on christinekhekama99@gmail.com
 
 <!---
 Christine-M9/Christine-M9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
