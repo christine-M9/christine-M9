@@ -2,7 +2,7 @@
 - 
 - 👀 I’m interested in Software Engineering as a Full-Stack Developer.
 - 
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Python.
 - 
 - 📫 Reach me on christinekhekama99@gmail.com
 
