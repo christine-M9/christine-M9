@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Christine Khekame Juma.
 - 👀 I’m interested in Software Engineering as a Full-Stack Developer.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Flask.
 - 📫 Reach me on christinekhekama99@gmail.com
 - 
     
