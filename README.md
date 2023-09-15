@@ -5,13 +5,7 @@
 - 🌱 I’m currently learning Python.
 - 
 - 📫 Reach me on christinekhekama99@gmail.com
-- <p align="center">
-    <br>
-    <img src="src/programming-languages.gif" alt="List of programming languages logos">
-    <br>
-    <br>
-    <br>
-    <br>
+- 
     
 
 
