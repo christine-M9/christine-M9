@@ -1,5 +1,4 @@
 
-- 🌱 Specializing in Javascript, Node, Typescript and React.
 ## GITHUB STATS
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christine-M9&" alt="christine" /></p>
 
