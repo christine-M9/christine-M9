@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Christine Khekame Juma.
-- 👀 I’m interested in Software Engineering as a Full-Stack Developer(frontend and backend dev).
-- 🌱 I’m currently learning Django and Larravel.
+
+- 🌱 I’m currently specializing in Javascript, Node, Typescript and React.
 
 - Reach me on christinejuma22699@gmail.com
   
